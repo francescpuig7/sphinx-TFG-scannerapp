@@ -1,0 +1,131 @@
+\select@language {catalan}
+\contentsline {chapter}{\numberline {1}Introducci\IeC {\'o}, motivacions, prop\IeC {\`o}sit i objectius del projecte}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Introducci\IeC {\'o}}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Motivacions i prop\IeC {\`o}sit}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}L'Empresa}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}Objectius}{4}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Scrum}{4}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Documentation Generator}{5}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Python Cheat Sheet}{5}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}React Introduction}{5}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {1.4.5}Tests}{5}{subsection.1.4.5}
+\contentsline {subsection}{\numberline {1.4.6}An\IeC {\`a}lisi, disseny, i implementaci\IeC {\'o}}{6}{subsection.1.4.6}
+\contentsline {subsection}{\numberline {1.4.7}Free Software}{6}{subsection.1.4.7}
+\contentsline {section}{\numberline {1.5}Punt de partida}{7}{section.1.5}
+\contentsline {chapter}{\numberline {2}Estudi de viabilitat}{9}{chapter.2}
+\contentsline {section}{\numberline {2.1}Recursos necessaris}{10}{section.2.1}
+\contentsline {section}{\numberline {2.2}Viabilitat tecnol\IeC {\`o}gica i econ\IeC {\`o}mica}{10}{section.2.2}
+\contentsline {chapter}{\numberline {3}Metodologia}{11}{chapter.3}
+\contentsline {section}{\numberline {3.1}Treball amb iteracions}{12}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Labels}{13}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Iteracions}{14}{subsection.3.1.2}
+\contentsline {chapter}{\numberline {4}Planificaci\IeC {\'o}}{15}{chapter.4}
+\contentsline {section}{\numberline {4.1}Aclariments previs}{15}{section.4.1}
+\contentsline {section}{\numberline {4.2}Tasques proposades}{15}{section.4.2}
+\contentsline {section}{\numberline {4.3}Cronograma temporal}{17}{section.4.3}
+\contentsline {section}{\numberline {4.4}Fases de treball}{19}{section.4.4}
+\contentsline {section}{\numberline {4.5}Valoraci\IeC {\'o} de la planificaci\IeC {\'o}}{23}{section.4.5}
+\contentsline {section}{\numberline {4.6}Freq\IeC {\@umlaut u}\IeC {\`e}ncia de desenvolupament}{24}{section.4.6}
+\contentsline {chapter}{\numberline {5}Marc de treball i conceptes previs}{25}{chapter.5}
+\contentsline {section}{\numberline {5.1}ERP}{25}{section.5.1}
+\contentsline {section}{\numberline {5.2}Base de Dades}{26}{section.5.2}
+\contentsline {section}{\numberline {5.3}Entorn b\IeC {\`a}sic de desenvolupament}{26}{section.5.3}
+\contentsline {section}{\numberline {5.4}Sistema a desenvolupar}{27}{section.5.4}
+\contentsline {section}{\numberline {5.5}Marc de treball per desenvolupar un programa d'escriptori}{28}{section.5.5}
+\contentsline {subsection}{\numberline {5.5.1}Vista d'usuari}{29}{subsection.5.5.1}
+\contentsline {subsection}{\numberline {5.5.2}Base de Dades de Prefer\IeC {\`e}ncies i perfils de digitalitzaci\IeC {\'o}}{29}{subsection.5.5.2}
+\contentsline {subsection}{\numberline {5.5.3}Comunicar-se entre processos}{29}{subsection.5.5.3}
+\contentsline {subsection}{\numberline {5.5.4}Obtenir acc\IeC {\'e}s als esc\IeC {\`a}ners}{29}{subsection.5.5.4}
+\contentsline {section}{\numberline {5.6}Marc de treball per desplegar una aplicaci\IeC {\'o} web}{29}{section.5.6}
+\contentsline {section}{\numberline {5.7}Nom comercial ScannerApp}{30}{section.5.7}
+\contentsline {chapter}{\numberline {6}Requisits del sistema}{31}{chapter.6}
+\contentsline {section}{\numberline {6.1}Iniciar el software des de l'ERP}{31}{section.6.1}
+\contentsline {section}{\numberline {6.2}Classificaci\IeC {\'o} de documents}{31}{section.6.2}
+\contentsline {section}{\numberline {6.3}Esc\IeC {\`a}ners disponibles}{32}{section.6.3}
+\contentsline {section}{\numberline {6.4}Prefer\IeC {\`e}ncies}{32}{section.6.4}
+\contentsline {section}{\numberline {6.5}Digitalitzaci\IeC {\'o} Nativa}{32}{section.6.5}
+\contentsline {section}{\numberline {6.6}Digitalitzaci\IeC {\'o}}{33}{section.6.6}
+\contentsline {section}{\numberline {6.7}Perfils}{33}{section.6.7}
+\contentsline {section}{\numberline {6.8}Edici\IeC {\'o} i previsualitzaci\IeC {\'o}}{33}{section.6.8}
+\contentsline {subsection}{\numberline {6.8.1}PDF}{33}{subsection.6.8.1}
+\contentsline {subsection}{\numberline {6.8.2}BMP}{33}{subsection.6.8.2}
+\contentsline {subsection}{\numberline {6.8.3}TIFF}{33}{subsection.6.8.3}
+\contentsline {section}{\numberline {6.9}Tractament i selecci\IeC {\'o}}{34}{section.6.9}
+\contentsline {section}{\numberline {6.10}Systray Icon}{34}{section.6.10}
+\contentsline {section}{\numberline {6.11}Requisits no funcionals}{35}{section.6.11}
+\contentsline {subsection}{\numberline {6.11.1}Emmagatzemament i \IeC {\'u}s}{35}{subsection.6.11.1}
+\contentsline {subsection}{\numberline {6.11.2}Fiabilitat}{35}{subsection.6.11.2}
+\contentsline {subsubsection}{Sentry}{35}{subsubsection*.3}
+\contentsline {subsubsection}{Logger}{37}{subsubsection*.4}
+\contentsline {chapter}{\numberline {7}Estudis i decisions}{39}{chapter.7}
+\contentsline {section}{\numberline {7.1}Requisits segons el sistema de l'empresa}{39}{section.7.1}
+\contentsline {section}{\numberline {7.2}El perqu\IeC {\`e} de Python}{39}{section.7.2}
+\contentsline {section}{\numberline {7.3}Acc\IeC {\'e}s a Esc\IeC {\`a}nners}{40}{section.7.3}
+\contentsline {subsection}{\numberline {7.3.1}Arquitectura}{42}{subsection.7.3.1}
+\contentsline {subsubsection}{Aplicaci\IeC {\'o}}{43}{subsubsection*.5}
+\contentsline {subsubsection}{Protocol}{43}{subsubsection*.6}
+\contentsline {subsubsection}{Adquisici\IeC {\'o}}{44}{subsubsection*.7}
+\contentsline {subsubsection}{Dispositiu}{44}{subsubsection*.8}
+\contentsline {subsubsection}{Interf\IeC {\'\i }cie}{44}{subsubsection*.9}
+\contentsline {subsection}{\numberline {7.3.2}Ajuda de twain en el projecte}{45}{subsection.7.3.2}
+\contentsline {subsubsection}{Obtenir una llista de Source Data}{45}{subsubsection*.10}
+\contentsline {subsubsection}{Adquisici\IeC {\'o}}{45}{subsubsection*.11}
+\contentsline {subsubsection}{Subscripci\IeC {\'o} d'events}{46}{subsubsection*.12}
+\contentsline {subsubsection}{Capabilities}{47}{subsubsection*.13}
+\contentsline {section}{\numberline {7.4}PyQt}{47}{section.7.4}
+\contentsline {section}{\numberline {7.5}\IeC {\O }MQ}{49}{section.7.5}
+\contentsline {section}{\numberline {7.6}SQLite}{51}{section.7.6}
+\contentsline {section}{\numberline {7.7}cx\_Freeze}{52}{section.7.7}
+\contentsline {section}{\numberline {7.8}Diagrama b\IeC {\`a}sic de funcionament}{55}{section.7.8}
+\contentsline {chapter}{\numberline {8}An\IeC {\`a}lisi i disseny del sistema}{57}{chapter.8}
+\contentsline {section}{\numberline {8.1}Estructura modular}{57}{section.8.1}
+\contentsline {section}{\numberline {8.2}An\IeC {\`a}lisi de Responsabilitats}{57}{section.8.2}
+\contentsline {section}{\numberline {8.3}Disseny de l'API}{59}{section.8.3}
+\contentsline {section}{\numberline {8.4}Diagrama de casos d'\IeC {\'u}s}{61}{section.8.4}
+\contentsline {section}{\numberline {8.5}Diagrama de classes b\IeC {\`a}sic}{63}{section.8.5}
+\contentsline {section}{\numberline {8.6}Diagrama de classes principal}{64}{section.8.6}
+\contentsline {section}{\numberline {8.7}Diagrama de seq\IeC {\@umlaut u}\IeC {\`e}ncia Llistar Esc\IeC {\`a}ners}{65}{section.8.7}
+\contentsline {section}{\numberline {8.8}Diagrama de seq\IeC {\@umlaut u}\IeC {\`e}ncia Request}{66}{section.8.8}
+\contentsline {section}{\numberline {8.9}Diagrama de seq\IeC {\@umlaut u}\IeC {\`e}ncia Crear perfil}{67}{section.8.9}
+\contentsline {section}{\numberline {8.10}Diagrama de seq\IeC {\@umlaut u}\IeC {\`e}ncia Obtenir document}{68}{section.8.10}
+\contentsline {section}{\numberline {8.11}Assignaci\IeC {\'o} de responsabilitats}{69}{section.8.11}
+\contentsline {subsection}{\numberline {8.11.1}Patr\IeC {\'o} de responsabilitats base}{69}{subsection.8.11.1}
+\contentsline {subsection}{\numberline {8.11.2}Patr\IeC {\'o} de responsabilitats de la interf\IeC {\'\i }cie gr\IeC {\`a}fica}{69}{subsection.8.11.2}
+\contentsline {section}{\numberline {8.12}Models de dades}{70}{section.8.12}
+\contentsline {chapter}{\numberline {9}Implementaci\IeC {\'o} i proves}{73}{chapter.9}
+\contentsline {section}{\numberline {9.1}Adaptaci\IeC {\'o} sockets natius de Python amb sockets ZMQ}{73}{section.9.1}
+\contentsline {section}{\numberline {9.2}Twain}{74}{section.9.2}
+\contentsline {section}{\numberline {9.3}Visors PDF}{74}{section.9.3}
+\contentsline {section}{\numberline {9.4}Instal\IeC {\textperiodcentered }lador}{77}{section.9.4}
+\contentsline {section}{\numberline {9.5}Acc\IeC {\'e}s directe del software autom\IeC {\`a}ticament}{78}{section.9.5}
+\contentsline {section}{\numberline {9.6}Compiled Version vs Uncompiled Version}{78}{section.9.6}
+\contentsline {section}{\numberline {9.7}Navegaci\IeC {\'o} ERP}{80}{section.9.7}
+\contentsline {chapter}{\numberline {10}Implantaci\IeC {\'o} i resultats}{81}{chapter.10}
+\contentsline {section}{\numberline {10.1}Integraci\IeC {\'o} Sentry i Logger}{81}{section.10.1}
+\contentsline {section}{\numberline {10.2}Sockets configurables}{82}{section.10.2}
+\contentsline {section}{\numberline {10.3}GUI}{82}{section.10.3}
+\contentsline {subsection}{\numberline {10.3.1}Vista principal}{83}{subsection.10.3.1}
+\contentsline {subsubsection}{Interacci\IeC {\'o} amb el client}{86}{subsubsection*.14}
+\contentsline {subsubsection}{Sistema de prompts}{87}{subsubsection*.15}
+\contentsline {subsection}{\numberline {10.3.2}M\IeC {\`e}todes principals}{87}{subsection.10.3.2}
+\contentsline {subsection}{\numberline {10.3.3}Vistes secund\IeC {\`a}ries}{91}{subsection.10.3.3}
+\contentsline {subsection}{\numberline {10.3.4}Her\IeC {\`e}ncia de PyQt}{93}{subsection.10.3.4}
+\contentsline {section}{\numberline {10.4}Client}{94}{section.10.4}
+\contentsline {section}{\numberline {10.5}API}{95}{section.10.5}
+\contentsline {section}{\numberline {10.6}Connector}{98}{section.10.6}
+\contentsline {section}{\numberline {10.7}Systray}{100}{section.10.7}
+\contentsline {section}{\numberline {10.8}Threading}{101}{section.10.8}
+\contentsline {section}{\numberline {10.9}ScannerAgent}{102}{section.10.9}
+\contentsline {section}{\numberline {10.10}Protocol Twain}{103}{section.10.10}
+\contentsline {subsection}{\numberline {10.10.1}Obrir Source Manager}{104}{subsection.10.10.1}
+\contentsline {subsection}{\numberline {10.10.2}Llistar esc\IeC {\`a}ners}{105}{subsection.10.10.2}
+\contentsline {subsection}{\numberline {10.10.3}Obrir un Data Source}{105}{subsection.10.10.3}
+\contentsline {subsection}{\numberline {10.10.4}Obtenir Document}{106}{subsection.10.10.4}
+\contentsline {subsubsection}{Natiu}{106}{subsubsection*.16}
+\contentsline {subsubsection}{Amb prefer\IeC {\`e}ncies}{109}{subsubsection*.17}
+\contentsline {section}{\numberline {10.11}Integraci\IeC {\'o} amb un ERP}{110}{section.10.11}
+\contentsline {section}{\numberline {10.12}Control d'errors}{113}{section.10.12}
+\contentsline {section}{\numberline {10.13}Resultats i proves}{113}{section.10.13}
+\contentsline {chapter}{\numberline {11}Treball futur}{129}{chapter.11}
+\contentsline {chapter}{\numberline {12}Conclusions}{131}{chapter.12}
+\contentsline {chapter}{\numberline {13}Bibliografia}{133}{chapter.13}
